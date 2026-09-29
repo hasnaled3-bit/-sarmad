@@ -1,0 +1,14 @@
+{
+  "name": "سرمد - بيئة علم البيان المطلق",
+  "image": "://microsoft.com",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "files.autoSave": "afterDelay",
+        "editor.fontSize": 16,
+        "terminal.integrated.fontSize": 14
+      }
+    }
+  }
+}
